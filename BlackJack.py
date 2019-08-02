@@ -182,7 +182,7 @@ def dealer_busts(player, dealer, chips): #dealer's hand value over 21
     print("Dealer busts!")
     chips.win_bet()
 
-def dealer_wins(player, dealer, chips): #dealer's hand value higher tahn player's
+def dealer_wins(player, dealer, chips): #dealer's hand value higher than player's
     
     print("Dealer wins!")
     chips.lose_bet()
