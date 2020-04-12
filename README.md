@@ -4,3 +4,5 @@ A simple Blackjack game coded in Python using object oriented programming. *Deal
 ## What I learned
 
 - Object Oriented Programming in Python
+- defining classes and methods
+- function inheritance
